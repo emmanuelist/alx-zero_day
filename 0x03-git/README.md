@@ -1,1 +1,3 @@
-Create a new directory called __0x03-git__ in your __alx-zero_day__ repo.
+* Create a new directory called `0x03-git` in your `alx-zero_day` repo.
+
+* For the moment we have an empty project directory containing only a `README.md`. It’s time to code!
